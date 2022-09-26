@@ -1,2 +1,2 @@
 print("Hello World")
-input("sajeda is intelligent girl")
+print("sajeda is intelligent girl")
